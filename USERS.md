@@ -25,3 +25,4 @@ TEMPLATE:
 - https://mritd.com/ - **漠然** (Software Engineer and DevOps)
 - https://ilya-lesikov.com - **Ilya Lesikov** (DevOps, SRE)
 - https://www.adamormsby.com - **Adam Ormsby** (Generalist Programmer - Web, Mobile, Games)
+- https://gerard.run/ - **Gerard Simons** (Software Engineer, Co-Founder)
